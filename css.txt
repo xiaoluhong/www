@@ -1,0 +1,11 @@
+https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.css
+https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
+https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css
+https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css
+https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css
+https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css
+https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css
+https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch.min.css
+https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css
+https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqusjs.css
+https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css

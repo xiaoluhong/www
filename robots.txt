@@ -1,0 +1,8 @@
+# robots.txt
+User-agent: *
+#Disallow:
+#Allow:
+Sitemap: https://www.xtplayer.cn/baidusitemap.xml
+Sitemap: https://www.xtplayer.cn/baidu_urls.txt
+Sitemap: https://www.xtplayer.cn/sitemap.xml
+Sitemap: https://www.xtplayer.cn/atom.xml

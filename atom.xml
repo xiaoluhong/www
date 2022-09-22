@@ -1,0 +1,3539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT老男孩</title>
+  <icon>https://www.xtplayer.cn/icon.png</icon>
+  <subtitle>系统玩家</subtitle>
+  <link href="https://www.xtplayer.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.xtplayer.cn/"/>
+  <updated>2022-09-17T07:19:27.414Z</updated>
+  <id>https://www.xtplayer.cn/</id>
+  
+  <author>
+    <name>IT老男孩</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Waiting for node to register. Either cluster is not ready for registering or etcd and controlplane node have to be registered first</title>
+    <link href="https://www.xtplayer.cn/rancher/waiting-for-node-to-register-either-cluster-is-not-ready-for-registering-or-etcd-and-controlplane-node-have-to-be-registered-first/"/>
+    <id>https://www.xtplayer.cn/rancher/waiting-for-node-to-register-either-cluster-is-not-ready-for-registering-or-etcd-and-controlplane-node-have-to-be-registered-first/</id>
+    <published>2022-09-17T06:33:50.000Z</published>
+    <updated>2022-09-17T07:19:27.414Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何查看 MySQL 数据库容量大小，表容量大小，索引容量大小？</title>
+    <link href="https://www.xtplayer.cn/mysql/how-to-get-the-sizes-of-the-tables-of-a-mysql-database/"/>
+    <id>https://www.xtplayer.cn/mysql/how-to-get-the-sizes-of-the-tables-of-a-mysql-database/</id>
+    <published>2022-05-17T08:48:50.000Z</published>
+    <updated>2022-05-18T04:05:09.280Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="mysql" scheme="https://www.xtplayer.cn/categories/mysql/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>node-agent 报错 Either cluster is not ready for registering, cluster is currently provisioning, or etcd, controlplane and worker node have to be registered</title>
+    <link href="https://www.xtplayer.cn/rancher/either-cluster-is-not-ready-for-registering/"/>
+    <id>https://www.xtplayer.cn/rancher/either-cluster-is-not-ready-for-registering/</id>
+    <published>2022-05-14T05:13:09.000Z</published>
+    <updated>2022-05-14T06:56:44.964Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Prometheus Adapter 安装</title>
+    <link href="https://www.xtplayer.cn/prometheus/prometheus-adapter/"/>
+    <id>https://www.xtplayer.cn/prometheus/prometheus-adapter/</id>
+    <published>2022-04-04T08:26:12.000Z</published>
+    <updated>2022-04-04T08:34:09.579Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="prometheus" scheme="https://www.xtplayer.cn/categories/prometheus/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>自定义集群监控参数</title>
+    <link href="https://www.xtplayer.cn/prometheus/custom-parameter/"/>
+    <id>https://www.xtplayer.cn/prometheus/custom-parameter/</id>
+    <published>2022-03-28T11:10:20.000Z</published>
+    <updated>2022-04-04T08:22:47.883Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="prometheus" scheme="https://www.xtplayer.cn/categories/prometheus/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>全新论坛启用，Rancher 中文社区迈入新阶段</title>
+    <link href="https://www.xtplayer.cn/rancher/rancher-new-forums/"/>
+    <id>https://www.xtplayer.cn/rancher/rancher-new-forums/</id>
+    <published>2022-03-25T13:16:03.000Z</published>
+    <updated>2022-04-04T08:22:31.553Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>coreDNS 加速外部域名解析</title>
+    <link href="https://www.xtplayer.cn/coredns/accelerate-external-domain-resolution/"/>
+    <id>https://www.xtplayer.cn/coredns/accelerate-external-domain-resolution/</id>
+    <published>2021-07-17T05:12:27.000Z</published>
+    <updated>2021-07-18T05:43:16.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="coredns" scheme="https://www.xtplayer.cn/categories/coredns/"/>
+    
+    
+    <category term="coredns" scheme="https://www.xtplayer.cn/tags/coredns/"/>
+    
+    <category term="coredns 最佳实践" scheme="https://www.xtplayer.cn/tags/coredns-%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/"/>
+    
+    <category term="coreDNS 加速外部域名解析" scheme="https://www.xtplayer.cn/tags/coredns-%E5%8A%A0%E9%80%9F%E5%A4%96%E9%83%A8%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI at the Edge with K3s and NVIDIA Jetson Nano: Object Detection and Real-Time Video Analytics</title>
+    <link href="https://www.xtplayer.cn/longhorn/ai-at-the-edge-with-k3s-nvidia-jetson-nano-object-detection-real-time-video-analytics-src/"/>
+    <id>https://www.xtplayer.cn/longhorn/ai-at-the-edge-with-k3s-nvidia-jetson-nano-object-detection-real-time-video-analytics-src/</id>
+    <published>2021-04-20T16:22:57.000Z</published>
+    <updated>2021-07-18T05:33:51.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="longhorn" scheme="https://www.xtplayer.cn/categories/longhorn/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MountVolume.WaitForAttach failed for volume with “structure needs cleaning”</title>
+    <link href="https://www.xtplayer.cn/kubernetes/mountvolume-waitforattach-failed-for-volume-with-structure-needs-cleaning/"/>
+    <id>https://www.xtplayer.cn/kubernetes/mountvolume-waitforattach-failed-for-volume-with-structure-needs-cleaning/</id>
+    <published>2021-03-24T11:52:03.000Z</published>
+    <updated>2021-04-07T04:12:07.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>记一次 controller manager and scheduler unavailable 问题分析</title>
+    <link href="https://www.xtplayer.cn/kubernetes/controller-manager-and-scheduler-unavailable/"/>
+    <id>https://www.xtplayer.cn/kubernetes/controller-manager-and-scheduler-unavailable/</id>
+    <published>2021-03-24T11:47:52.000Z</published>
+    <updated>2021-03-24T11:49:43.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>变更 Rancher Server IP 或域名</title>
+    <link href="https://www.xtplayer.cn/rancher/replace-ip-domain/"/>
+    <id>https://www.xtplayer.cn/rancher/replace-ip-domain/</id>
+    <published>2021-03-23T14:58:20.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="更换域名" scheme="https://www.xtplayer.cn/tags/%E6%9B%B4%E6%8D%A2%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次镜像仓库凭证相关问题分析</title>
+    <link href="https://www.xtplayer.cn/kubernetes/docker-credentials-secret/"/>
+    <id>https://www.xtplayer.cn/kubernetes/docker-credentials-secret/</id>
+    <published>2021-03-23T12:07:19.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>重磅出击: Rancher 2.4.x 迁移自定义 k8s 集群</title>
+    <link href="https://www.xtplayer.cn/rancher/Rancher2.x-migrate-custom-k8s-cluster/"/>
+    <id>https://www.xtplayer.cn/rancher/Rancher2.x-migrate-custom-k8s-cluster/</id>
+    <published>2021-03-04T13:04:51.000Z</published>
+    <updated>2022-05-25T02:35:08.256Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="集群迁移" scheme="https://www.xtplayer.cn/tags/%E9%9B%86%E7%BE%A4%E8%BF%81%E7%A7%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introduction to k3d: Run K3s in Docker</title>
+    <link href="https://www.xtplayer.cn/k3d/introduction-k3d-run-k3s-docker-src/"/>
+    <id>https://www.xtplayer.cn/k3d/introduction-k3d-run-k3s-docker-src/</id>
+    <published>2021-03-03T12:11:50.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="k3d" scheme="https://www.xtplayer.cn/categories/k3d/"/>
+    
+    
+    <category term="k3d" scheme="https://www.xtplayer.cn/tags/k3d/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes 自动弹性伸缩</title>
+    <link href="https://www.xtplayer.cn/kubernetes/k8s-automatic-elastic-expansion/"/>
+    <id>https://www.xtplayer.cn/kubernetes/k8s-automatic-elastic-expansion/</id>
+    <published>2021-03-02T14:30:19.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="弹性伸缩" scheme="https://www.xtplayer.cn/tags/%E5%BC%B9%E6%80%A7%E4%BC%B8%E7%BC%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>创建一个成熟的 GitOps 流水线需要做哪些决定？</title>
+    <link href="https://www.xtplayer.cn/cicd/create-a-full-fledged-gitops-pipeline/"/>
+    <id>https://www.xtplayer.cn/cicd/create-a-full-fledged-gitops-pipeline/</id>
+    <published>2021-03-02T14:22:46.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="cicd" scheme="https://www.xtplayer.cn/categories/cicd/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Understanding the Kubernetes Node</title>
+    <link href="https://www.xtplayer.cn/kubernetes/understanding-the-kubernetes-node/"/>
+    <id>https://www.xtplayer.cn/kubernetes/understanding-the-kubernetes-node/</id>
+    <published>2021-03-01T14:21:14.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes: Tackling Resource Consumption</title>
+    <link href="https://www.xtplayer.cn/kubernetes/kubernetes-tackling-resource-consumption/"/>
+    <id>https://www.xtplayer.cn/kubernetes/kubernetes-tackling-resource-consumption/</id>
+    <published>2021-03-01T14:19:21.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Announcing Harvester - Open Source Hyperconverged Infrastructure (HCI) Software</title>
+    <link href="https://www.xtplayer.cn/hci/announcing-harvester-open-source-hyperconverged-infrastructure-hci-software/"/>
+    <id>https://www.xtplayer.cn/hci/announcing-harvester-open-source-hyperconverged-infrastructure-hci-software/</id>
+    <published>2021-02-26T16:15:51.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hci" scheme="https://www.xtplayer.cn/categories/hci/"/>
+    
+    
+    <category term="HCI" scheme="https://www.xtplayer.cn/tags/hci/"/>
+    
+    <category term="Harvester" scheme="https://www.xtplayer.cn/tags/harvester/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Using Hybrid and Multi-Cloud Service Mesh Based Applications for Distributed Deployments</title>
+    <link href="https://www.xtplayer.cn/service-mesh/using-hybrid-and-multi-cloud-service-mesh-based-applications-for-distributed-deployments/"/>
+    <id>https://www.xtplayer.cn/service-mesh/using-hybrid-and-multi-cloud-service-mesh-based-applications-for-distributed-deployments/</id>
+    <published>2021-02-26T14:57:52.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="service-mesh" scheme="https://www.xtplayer.cn/categories/service-mesh/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Set up K3s in High Availability using k3d</title>
+    <link href="https://www.xtplayer.cn/k3s/set-up-k3s-in-high-availability-using-k3d/"/>
+    <id>https://www.xtplayer.cn/k3s/set-up-k3s-in-high-availability-using-k3d/</id>
+    <published>2021-02-26T14:56:15.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="k3s" scheme="https://www.xtplayer.cn/categories/k3s/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Compute Confidently at the Edge with Rancher and Longhorn</title>
+    <link href="https://www.xtplayer.cn/rancher/compute-confidently-at-the-edge-with-rancher-and-longhorn-1-1/"/>
+    <id>https://www.xtplayer.cn/rancher/compute-confidently-at-the-edge-with-rancher-and-longhorn-1-1/</id>
+    <published>2021-02-26T14:50:36.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="Rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="Longhorn" scheme="https://www.xtplayer.cn/tags/longhorn/"/>
+    
+    <category term="Edge" scheme="https://www.xtplayer.cn/tags/edge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes 规范中标签的重要性</title>
+    <link href="https://www.xtplayer.cn/kubernetes/autoscaling/"/>
+    <id>https://www.xtplayer.cn/kubernetes/autoscaling/</id>
+    <published>2021-02-19T11:10:19.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes 资源请求和限制</title>
+    <link href="https://www.xtplayer.cn/kubernetes/resource-requests-and-limits/"/>
+    <id>https://www.xtplayer.cn/kubernetes/resource-requests-and-limits/</id>
+    <published>2021-02-18T09:37:52.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Kubernetes 概念及其重要性</title>
+    <link href="https://www.xtplayer.cn/kubernetes/concepts-and-matters/"/>
+    <id>https://www.xtplayer.cn/kubernetes/concepts-and-matters/</id>
+    <published>2021-02-15T12:30:30.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>了解 Kubernetes 1.20</title>
+    <link href="https://www.xtplayer.cn/kubernetes/about-kubernetes-1.20/"/>
+    <id>https://www.xtplayer.cn/kubernetes/about-kubernetes-1.20/</id>
+    <published>2021-02-15T11:53:23.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="cicd" scheme="https://www.xtplayer.cn/tags/cicd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>影响 Kubernetes 调度的决策因素</title>
+    <link href="https://www.xtplayer.cn/kubernetes/scheduler/influencing-kubernetes-scheduler-decisions/"/>
+    <id>https://www.xtplayer.cn/kubernetes/scheduler/influencing-kubernetes-scheduler-decisions/</id>
+    <published>2021-02-14T14:46:07.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    <category term="scheduler" scheme="https://www.xtplayer.cn/categories/kubernetes/scheduler/"/>
+    
+    
+    <category term="Kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+    <category term="Kubernetes scheduler" scheme="https://www.xtplayer.cn/tags/kubernetes-scheduler/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初步了解 Kubernetes 基础功能</title>
+    <link href="https://www.xtplayer.cn/kubernetes/kubernetes-basics/"/>
+    <id>https://www.xtplayer.cn/kubernetes/kubernetes-basics/</id>
+    <published>2021-02-13T14:44:39.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 10X 初步了解</title>
+    <link href="https://www.xtplayer.cn/windows/windows-10x/"/>
+    <id>https://www.xtplayer.cn/windows/windows-10x/</id>
+    <published>2021-02-13T14:29:30.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="windows" scheme="https://www.xtplayer.cn/categories/windows/"/>
+    
+    
+    <category term="windows10X" scheme="https://www.xtplayer.cn/tags/windows10x/"/>
+    
+    <category term="windows" scheme="https://www.xtplayer.cn/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>运用 DevOps 之力实现基础设施自动化</title>
+    <link href="https://www.xtplayer.cn/devops/automation-of-infrastructure/"/>
+    <id>https://www.xtplayer.cn/devops/automation-of-infrastructure/</id>
+    <published>2021-02-10T15:53:54.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="devops" scheme="https://www.xtplayer.cn/categories/devops/"/>
+    
+    
+    <category term="devops" scheme="https://www.xtplayer.cn/tags/devops/"/>
+    
+    <category term="DevOps" scheme="https://www.xtplayer.cn/tags/devops/"/>
+    
+    <category term="自动化" scheme="https://www.xtplayer.cn/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ETCD 常见问题集锦</title>
+    <link href="https://www.xtplayer.cn/etcd/etcd-problem-sets/"/>
+    <id>https://www.xtplayer.cn/etcd/etcd-problem-sets/</id>
+    <published>2021-02-09T14:24:27.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/categories/etcd/"/>
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/tags/etcd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kubernetes 常见问题集锦</title>
+    <link href="https://www.xtplayer.cn/kubernetes/kubernetes-problem-sets/"/>
+    <id>https://www.xtplayer.cn/kubernetes/kubernetes-problem-sets/</id>
+    <published>2021-02-09T14:24:27.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RKE 常见问题集锦</title>
+    <link href="https://www.xtplayer.cn/rke/rke-problem-sets/"/>
+    <id>https://www.xtplayer.cn/rke/rke-problem-sets/</id>
+    <published>2021-02-09T14:24:27.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rke" scheme="https://www.xtplayer.cn/categories/rke/"/>
+    
+    
+    <category term="rke" scheme="https://www.xtplayer.cn/tags/rke/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher 常见问题集锦</title>
+    <link href="https://www.xtplayer.cn/rancher/rancher-problem-sets/"/>
+    <id>https://www.xtplayer.cn/rancher/rancher-problem-sets/</id>
+    <published>2021-02-09T14:24:27.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="NetworkReady" scheme="https://www.xtplayer.cn/tags/networkready/"/>
+    
+    <category term="runtime network not ready" scheme="https://www.xtplayer.cn/tags/runtime-network-not-ready/"/>
+    
+    <category term="rancher password reset" scheme="https://www.xtplayer.cn/tags/rancher-password-reset/"/>
+    
+    <category term="rancher debug" scheme="https://www.xtplayer.cn/tags/rancher-debug/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cgroup 常见问题集锦</title>
+    <link href="https://www.xtplayer.cn/linux/cgroup/cgroup-problem-sets/"/>
+    <id>https://www.xtplayer.cn/linux/cgroup/cgroup-problem-sets/</id>
+    <published>2021-02-09T14:24:27.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    <category term="cgroup" scheme="https://www.xtplayer.cn/categories/linux/cgroup/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux Netfilter 调优</title>
+    <link href="https://www.xtplayer.cn/linux/netfilter/linux-netfilter-optimization/"/>
+    <id>https://www.xtplayer.cn/linux/netfilter/linux-netfilter-optimization/</id>
+    <published>2021-02-04T13:47:08.000Z</published>
+    <updated>2021-02-05T13:27:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    <category term="netfilter" scheme="https://www.xtplayer.cn/categories/linux/netfilter/"/>
+    
+    
+    <category term="Netfilter" scheme="https://www.xtplayer.cn/tags/netfilter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将博客搬至 CSDN</title>
+    <link href="https://www.xtplayer.cn/csdn/blog-sync-to-csdn/"/>
+    <id>https://www.xtplayer.cn/csdn/blog-sync-to-csdn/</id>
+    <published>2021-02-04T06:58:32.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="csdn" scheme="https://www.xtplayer.cn/categories/csdn/"/>
+    
+    
+    <category term="CSDN" scheme="https://www.xtplayer.cn/tags/csdn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4 步将 Rancher2.5.x 迁移至任意 K8S 发行版</title>
+    <link href="https://www.xtplayer.cn/rancher/rancher2-x-migration/"/>
+    <id>https://www.xtplayer.cn/rancher/rancher2-x-migration/</id>
+    <published>2021-02-03T13:04:51.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="集群迁移" scheme="https://www.xtplayer.cn/tags/%E9%9B%86%E7%BE%A4%E8%BF%81%E7%A7%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一通百通，一文实现灵活的 K8S 基础架构！</title>
+    <link href="https://www.xtplayer.cn/kubernetes/k8s-infrastructure/"/>
+    <id>https://www.xtplayer.cn/kubernetes/k8s-infrastructure/</id>
+    <published>2021-02-02T13:38:05.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Longhorn 1.1 ARM 支持</title>
+    <link href="https://www.xtplayer.cn/longhorn/longhorn-arm/"/>
+    <id>https://www.xtplayer.cn/longhorn/longhorn-arm/</id>
+    <published>2021-02-01T11:55:18.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;当 DevOps 团队同时使用 Rancher 和 Longhorn 1.1 时，他们可以轻松管理位于任意位置的持久化数据卷，无论这些持久化数据卷位于云端、数据中心抑或边缘。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2021 年 1 月 27</summary>
+        
+      
+    
+    
+    
+    <category term="longhorn" scheme="https://www.xtplayer.cn/categories/longhorn/"/>
+    
+    
+    <category term="Longhorn ARM" scheme="https://www.xtplayer.cn/tags/longhorn-arm/"/>
+    
+    <category term="longhorn" scheme="https://www.xtplayer.cn/tags/longhorn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kubernetes secret device or resource busy</title>
+    <link href="https://www.xtplayer.cn/kubernetes/kubernetes-secret-device-or-resource-busy/"/>
+    <id>https://www.xtplayer.cn/kubernetes/kubernetes-secret-device-or-resource-busy/</id>
+    <published>2021-01-29T08:48:03.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="device or resource busy" scheme="https://www.xtplayer.cn/tags/device-or-resource-busy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher2 OpenLDAP 认证</title>
+    <link href="https://www.xtplayer.cn/rancher/authentication/rancher2-openldap-authentication/"/>
+    <id>https://www.xtplayer.cn/rancher/authentication/rancher2-openldap-authentication/</id>
+    <published>2021-01-28T07:42:09.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/categories/rancher/authentication/"/>
+    
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/tags/authentication/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher2 Azure AD 认证</title>
+    <link href="https://www.xtplayer.cn/rancher/authentication/rancher2-azure-ad-authentication/"/>
+    <id>https://www.xtplayer.cn/rancher/authentication/rancher2-azure-ad-authentication/</id>
+    <published>2021-01-27T09:45:53.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/categories/rancher/authentication/"/>
+    
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/tags/authentication/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher2 Github 认证</title>
+    <link href="https://www.xtplayer.cn/rancher/authentication/rancher2-github-authentication/"/>
+    <id>https://www.xtplayer.cn/rancher/authentication/rancher2-github-authentication/</id>
+    <published>2021-01-26T12:40:15.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/categories/rancher/authentication/"/>
+    
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/tags/authentication/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher 创建自定义 k8s 集群</title>
+    <link href="https://www.xtplayer.cn/rancher/clusters/rancher-create-custom-cluster/"/>
+    <id>https://www.xtplayer.cn/rancher/clusters/rancher-create-custom-cluster/</id>
+    <published>2021-01-24T13:19:44.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="clusters" scheme="https://www.xtplayer.cn/categories/rancher/clusters/"/>
+    
+    
+    <category term="clusters" scheme="https://www.xtplayer.cn/tags/clusters/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Big Sur 11.2 rc 候选版更新</title>
+    <link href="https://www.xtplayer.cn/macos/macos-big-sur-11-2-rc/"/>
+    <id>https://www.xtplayer.cn/macos/macos-big-sur-11-2-rc/</id>
+    <published>2021-01-22T09:36:06.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今日凌晨，苹果面向开发人员推送了 macOS Big Sur 11.2 发布候选版（RC）更新。&lt;/p&gt;
+&lt;p&gt;macOS Big Su11.2 beta 2 消除了一项功能，该功能允许 Apple 应用程序绕过第三方防火墙，安全工具和 VPN 应用程序。macOS</summary>
+        
+      
+    
+    
+    
+    <category term="macos" scheme="https://www.xtplayer.cn/categories/macos/"/>
+    
+    
+    <category term="macOS Big Sur" scheme="https://www.xtplayer.cn/tags/macos-big-sur/"/>
+    
+    <category term="macos" scheme="https://www.xtplayer.cn/tags/macos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次 request_sock_tcp possible syn flooding on port 事件处理</title>
+    <link href="https://www.xtplayer.cn/linux/network/request-sock-tcp-possible-syn-flooding-on-port/"/>
+    <id>https://www.xtplayer.cn/linux/network/request-sock-tcp-possible-syn-flooding-on-port/</id>
+    <published>2021-01-20T14:12:42.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    <category term="network" scheme="https://www.xtplayer.cn/categories/linux/network/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher hosted Kubernetes AKS</title>
+    <link href="https://www.xtplayer.cn/rancher/clusters/rancher-hosted-kubernetes-aks/"/>
+    <id>https://www.xtplayer.cn/rancher/clusters/rancher-hosted-kubernetes-aks/</id>
+    <published>2021-01-20T13:30:31.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="clusters" scheme="https://www.xtplayer.cn/categories/rancher/clusters/"/>
+    
+    
+    <category term="clusters" scheme="https://www.xtplayer.cn/tags/clusters/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher 轮换证书</title>
+    <link href="https://www.xtplayer.cn/rancher/cert/rancher-rotate-cert/"/>
+    <id>https://www.xtplayer.cn/rancher/cert/rancher-rotate-cert/</id>
+    <published>2021-01-20T12:42:20.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="cert" scheme="https://www.xtplayer.cn/categories/rancher/cert/"/>
+    
+    
+    <category term="cert" scheme="https://www.xtplayer.cn/tags/cert/"/>
+    
+    <category term="rancher 轮换证书" scheme="https://www.xtplayer.cn/tags/rancher-%E8%BD%AE%E6%8D%A2%E8%AF%81%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>删除状态为 Failed、Evicted 的 Pod</title>
+    <link href="https://www.xtplayer.cn/kubernetes/kubectl-delete-evicted-pods/"/>
+    <id>https://www.xtplayer.cn/kubernetes/kubectl-delete-evicted-pods/</id>
+    <published>2021-01-18T14:30:54.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="Evicted" scheme="https://www.xtplayer.cn/tags/evicted/"/>
+    
+    <category term="Failed" scheme="https://www.xtplayer.cn/tags/failed/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tcpdump 手册</title>
+    <link href="https://www.xtplayer.cn/linux/network/tcpdump-man-page/"/>
+    <id>https://www.xtplayer.cn/linux/network/tcpdump-man-page/</id>
+    <published>2021-01-16T07:31:21.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    <category term="network" scheme="https://www.xtplayer.cn/categories/linux/network/"/>
+    
+    
+    <category term="tcpdump" scheme="https://www.xtplayer.cn/tags/tcpdump/"/>
+    
+    <category term="抓包" scheme="https://www.xtplayer.cn/tags/%E6%8A%93%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>配置 Network Manager 以忽略某些网络设备</title>
+    <link href="https://www.xtplayer.cn/linux/network/networkmanager-not-manager-container-network-interface/"/>
+    <id>https://www.xtplayer.cn/linux/network/networkmanager-not-manager-container-network-interface/</id>
+    <published>2021-01-15T11:36:19.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    <category term="network" scheme="https://www.xtplayer.cn/categories/linux/network/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>权威 ssl 证书 + ingress + 安装 Rancher HA</title>
+    <link href="https://www.xtplayer.cn/rancher/install/ha-authority-ssl-ingress/"/>
+    <id>https://www.xtplayer.cn/rancher/install/ha-authority-ssl-ingress/</id>
+    <published>2021-01-14T13:58:40.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>权威 ssl 证书 + Nodeport +  外部 L7 + 安装 Rancher HA</title>
+    <link href="https://www.xtplayer.cn/rancher/install/ha-nodeport-external-l7/"/>
+    <id>https://www.xtplayer.cn/rancher/install/ha-nodeport-external-l7/</id>
+    <published>2021-01-14T13:58:40.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自签名 ssl 证书 + ingress + 安装 Rancher HA</title>
+    <link href="https://www.xtplayer.cn/rancher/install/ha-self-signed-ssl-ingress/"/>
+    <id>https://www.xtplayer.cn/rancher/install/ha-self-signed-ssl-ingress/</id>
+    <published>2021-01-14T13:58:40.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>k8s 基础环境配置</title>
+    <link href="https://www.xtplayer.cn/kubernetes/k8s-basic-environment-configuration/"/>
+    <id>https://www.xtplayer.cn/kubernetes/k8s-basic-environment-configuration/</id>
+    <published>2021-01-13T12:44:13.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>K8S 弃用 docker？</title>
+    <link href="https://www.xtplayer.cn/kubernetes/k8s-deprecated-docker/"/>
+    <id>https://www.xtplayer.cn/kubernetes/k8s-deprecated-docker/</id>
+    <published>2021-01-13T11:21:47.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="Kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>k8s Service 之 Iptables 流转过程</title>
+    <link href="https://www.xtplayer.cn/kubernetes/svc/k8s-svc-iptables-flow-process/"/>
+    <id>https://www.xtplayer.cn/kubernetes/svc/k8s-svc-iptables-flow-process/</id>
+    <published>2021-01-12T03:00:40.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    <category term="svc" scheme="https://www.xtplayer.cn/categories/kubernetes/svc/"/>
+    
+    
+    <category term="Service" scheme="https://www.xtplayer.cn/tags/service/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>导入 k8s 集群更新 CA 证书后 Rancher 端的配置操作</title>
+    <link href="https://www.xtplayer.cn/rancher/import-k8s-cluster-update-ca/"/>
+    <id>https://www.xtplayer.cn/rancher/import-k8s-cluster-update-ca/</id>
+    <published>2021-01-11T14:09:17.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cattle-global-data/system-library-rancher-monitoring not found</title>
+    <link href="https://www.xtplayer.cn/rancher/cattle-global-data-system-library-rancher-monitoring-not-found/"/>
+    <id>https://www.xtplayer.cn/rancher/cattle-global-data-system-library-rancher-monitoring-not-found/</id>
+    <published>2021-01-11T06:18:02.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher 单容器安装恢复</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/rancher-single-container-restore/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/rancher-single-container-restore/</id>
+    <published>2021-01-10T06:11:34.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/tags/backup-restore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher 单容器安装备份</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/rancher-single-container-backups/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/rancher-single-container-backups/</id>
+    <published>2021-01-10T06:11:23.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/tags/backup-restore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher rke 集群恢复</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/rancher-rke-cluster-restore/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/rancher-rke-cluster-restore/</id>
+    <published>2021-01-10T04:36:30.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;如果 rancher 是 HA 架构部署，在 HA 架构下，rancher 的数据是保存在 rke local K8S 集群中。所以在 rancher HA 架构下只需要通过 RKE 恢复 local 集群数据，即可同时恢复 rancher</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="rke" scheme="https://www.xtplayer.cn/tags/rke/"/>
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/tags/backup-restore/"/>
+    
+    <category term="rancher restore" scheme="https://www.xtplayer.cn/tags/rancher-restore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher 自定义集群恢复</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/rancher-custom-cluster-restore/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/rancher-custom-cluster-restore/</id>
+    <published>2021-01-10T04:36:18.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="rke" scheme="https://www.xtplayer.cn/tags/rke/"/>
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/tags/backup-restore/"/>
+    
+    <category term="rancher restore" scheme="https://www.xtplayer.cn/tags/rancher-restore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher rke 集群备份</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/rancher-rke-cluster-backups/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/rancher-rke-cluster-backups/</id>
+    <published>2021-01-10T04:32:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="rke" scheme="https://www.xtplayer.cn/tags/rke/"/>
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/tags/backup-restore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher 自定义集群备份</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/rancher-custom-cluster-backups/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/rancher-custom-cluster-backups/</id>
+    <published>2021-01-10T04:30:35.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/tags/backup-restore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher 离线安装镜像同步</title>
+    <link href="https://www.xtplayer.cn/rancher/install/rancher-install-offline-images/"/>
+    <id>https://www.xtplayer.cn/rancher/install/rancher-install-offline-images/</id>
+    <published>2021-01-10T04:18:33.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher k8s 对接 ceph 存储</title>
+    <link href="https://www.xtplayer.cn/kubernetes/storage/k8s-storage-ceph/"/>
+    <id>https://www.xtplayer.cn/kubernetes/storage/k8s-storage-ceph/</id>
+    <published>2021-01-09T15:13:42.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    <category term="storage" scheme="https://www.xtplayer.cn/categories/kubernetes/storage/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+    <category term="storage" scheme="https://www.xtplayer.cn/tags/storage/"/>
+    
+    <category term="ceph" scheme="https://www.xtplayer.cn/tags/ceph/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>k8s 中的 pvc pv sc</title>
+    <link href="https://www.xtplayer.cn/kubernetes/storage/k8s-pvc-pv-sc/"/>
+    <id>https://www.xtplayer.cn/kubernetes/storage/k8s-pvc-pv-sc/</id>
+    <published>2021-01-09T13:18:02.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    <category term="storage" scheme="https://www.xtplayer.cn/categories/kubernetes/storage/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+    <category term="storage" scheme="https://www.xtplayer.cn/tags/storage/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher2 keycloak 认证</title>
+    <link href="https://www.xtplayer.cn/rancher/authentication/rancher2-keycloak-authentication/"/>
+    <id>https://www.xtplayer.cn/rancher/authentication/rancher2-keycloak-authentication/</id>
+    <published>2021-01-08T15:49:58.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/categories/rancher/authentication/"/>
+    
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/tags/authentication/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher2.x 对接外部认证系统</title>
+    <link href="https://www.xtplayer.cn/rancher/authentication/rancher2-authentication/"/>
+    <id>https://www.xtplayer.cn/rancher/authentication/rancher2-authentication/</id>
+    <published>2021-01-08T15:37:54.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/categories/rancher/authentication/"/>
+    
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/tags/authentication/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher2 AD 域认证</title>
+    <link href="https://www.xtplayer.cn/rancher/authentication/rancher2-ad-authentication/"/>
+    <id>https://www.xtplayer.cn/rancher/authentication/rancher2-ad-authentication/</id>
+    <published>2021-01-08T15:13:08.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/categories/rancher/authentication/"/>
+    
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/tags/authentication/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POD 中容器异常重启原因定位</title>
+    <link href="https://www.xtplayer.cn/kubernetes/pod-container-restart-reason-check/"/>
+    <id>https://www.xtplayer.cn/kubernetes/pod-container-restart-reason-check/</id>
+    <published>2021-01-07T10:07:35.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客同步至 OSCHINA</title>
+    <link href="https://www.xtplayer.cn/oschina/blog-sync-to-oschina/"/>
+    <id>https://www.xtplayer.cn/oschina/blog-sync-to-oschina/</id>
+    <published>2021-01-07T06:58:32.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我的博客即将同步至 OSCHINA 社区，这是我的 OSCHINA ID：洪晓露，邀请大家一同入驻：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="oschina" scheme="https://www.xtplayer.cn/categories/oschina/"/>
+    
+    
+    <category term="OSCHINA" scheme="https://www.xtplayer.cn/tags/oschina/"/>
+    
+    <category term="oschina" scheme="https://www.xtplayer.cn/tags/oschina/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher nginx ingress 实现灰度发布</title>
+    <link href="https://www.xtplayer.cn/rancher/rancher-nginx-ingress-canary/"/>
+    <id>https://www.xtplayer.cn/rancher/rancher-nginx-ingress-canary/</id>
+    <published>2021-01-06T11:45:20.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="灰度发布" scheme="https://www.xtplayer.cn/tags/%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>K8S 自动部署工具</title>
+    <link href="https://www.xtplayer.cn/kubernetes/automatic-k8s-deployment-tool/"/>
+    <id>https://www.xtplayer.cn/kubernetes/automatic-k8s-deployment-tool/</id>
+    <published>2021-01-06T10:33:18.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher16 通过 webhook 自动升级服务</title>
+    <link href="https://www.xtplayer.cn/rancher/rancher16-webhook-auto-update/"/>
+    <id>https://www.xtplayer.cn/rancher/rancher16-webhook-auto-update/</id>
+    <published>2021-01-06T10:01:10.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>K8S 节点初始化</title>
+    <link href="https://www.xtplayer.cn/rancher/node-init/"/>
+    <id>https://www.xtplayer.cn/rancher/node-init/</id>
+    <published>2021-01-06T09:48:22.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="节点初始化" scheme="https://www.xtplayer.cn/tags/%E8%8A%82%E7%82%B9%E5%88%9D%E5%A7%8B%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rancher k8s 使用 iscsi 存储</title>
+    <link href="https://www.xtplayer.cn/rancher/rancher-k8s-use-iscsi-storage/"/>
+    <id>https://www.xtplayer.cn/rancher/rancher-k8s-use-iscsi-storage/</id>
+    <published>2021-01-05T14:41:55.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="storage" scheme="https://www.xtplayer.cn/tags/storage/"/>
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="iscsi" scheme="https://www.xtplayer.cn/tags/iscsi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于 eBPF</title>
+    <link href="https://www.xtplayer.cn/linux/about-ebpf/"/>
+    <id>https://www.xtplayer.cn/linux/about-ebpf/</id>
+    <published>2020-12-28T13:56:20.000Z</published>
+    <updated>2021-02-04T17:35:19.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;原文：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    
+    <category term="eBPF" scheme="https://www.xtplayer.cn/tags/ebpf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gogs 安装，升级</title>
+    <link href="https://www.xtplayer.cn/git/gogs-install-update/"/>
+    <id>https://www.xtplayer.cn/git/gogs-install-update/</id>
+    <published>2020-12-24T07:30:09.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="git" scheme="https://www.xtplayer.cn/categories/git/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Api Server 和 ETCD 健康状态检查</title>
+    <link href="https://www.xtplayer.cn/kubernetes/api-server-and-etcd-health-state-check/"/>
+    <id>https://www.xtplayer.cn/kubernetes/api-server-and-etcd-health-state-check/</id>
+    <published>2020-12-22T13:30:21.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>k3s containerd 配置 mirror 和 insecure</title>
+    <link href="https://www.xtplayer.cn/containerd/containerd-mirror-config/"/>
+    <id>https://www.xtplayer.cn/containerd/containerd-mirror-config/</id>
+    <published>2020-12-22T04:07:08.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;containerd 使用了类似 k8s 中 &lt;strong&gt;svc&lt;/strong&gt; 与 &lt;strong&gt;endpoint&lt;/strong&gt; 的概念。svc 可以理解为访问 url，这个 url 会解析到对应的 endpoint 上。也可以理解</summary>
+        
+      
+    
+    
+    
+    <category term="containerd" scheme="https://www.xtplayer.cn/categories/containerd/"/>
+    
+    
+    <category term="containerd" scheme="https://www.xtplayer.cn/tags/containerd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>golang pprof etcd 性能分析</title>
+    <link href="https://www.xtplayer.cn/etcd/etcd-pprof-performance-analysis/"/>
+    <id>https://www.xtplayer.cn/etcd/etcd-pprof-performance-analysis/</id>
+    <published>2020-12-16T08:35:13.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/categories/etcd/"/>
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/tags/etcd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>复用 Released 状态的 pv</title>
+    <link href="https://www.xtplayer.cn/kubernetes/reuse-released-pv/"/>
+    <id>https://www.xtplayer.cn/kubernetes/reuse-released-pv/</id>
+    <published>2020-12-08T10:50:22.000Z</published>
+    <updated>2022-03-27T12:56:21.238Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="Released pv" scheme="https://www.xtplayer.cn/tags/released-pv/"/>
+    
+    <category term="storage" scheme="https://www.xtplayer.cn/tags/storage/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher 不显示全局功能的解决方案</title>
+    <link href="https://www.xtplayer.cn/rancher/rancher-not-display-global-monitoring/"/>
+    <id>https://www.xtplayer.cn/rancher/rancher-not-display-global-monitoring/</id>
+    <published>2020-12-01T09:09:12.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>强制删除 Terminating 状态的 namespace</title>
+    <link href="https://www.xtplayer.cn/kubernetes/forces-delete-terminated-namespace/"/>
+    <id>https://www.xtplayer.cn/kubernetes/forces-delete-terminated-namespace/</id>
+    <published>2020-12-01T03:48:36.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+    <category term="terminated" scheme="https://www.xtplayer.cn/tags/terminated/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher 自带监控收集导入 K8S 集群的 ETCD 数据</title>
+    <link href="https://www.xtplayer.cn/rancher/monitors/rancher-monitors-collection-external-etcd-data/"/>
+    <id>https://www.xtplayer.cn/rancher/monitors/rancher-monitors-collection-external-etcd-data/</id>
+    <published>2020-11-30T09:01:48.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="monitors" scheme="https://www.xtplayer.cn/categories/rancher/monitors/"/>
+    
+    
+    <category term="rancher monitors" scheme="https://www.xtplayer.cn/tags/rancher-monitors/"/>
+    
+    <category term="monitors" scheme="https://www.xtplayer.cn/tags/monitors/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vagrant 快速搭建开发测试环境</title>
+    <link href="https://www.xtplayer.cn/vagrant/vagrant-quick-start/"/>
+    <id>https://www.xtplayer.cn/vagrant/vagrant-quick-start/</id>
+    <published>2020-10-24T11:43:57.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Vagrant-简介&quot;&gt;&lt;a href=&quot;#Vagrant-简介&quot; class=&quot;headerlink&quot; title=&quot;Vagrant 简介&quot;&gt;&lt;/a&gt;Vagrant 简介&lt;/h2&gt;&lt;p&gt;Vagrant</summary>
+        
+      
+    
+    
+    
+    <category term="vagrant" scheme="https://www.xtplayer.cn/categories/vagrant/"/>
+    
+    
+    <category term="vagrant" scheme="https://www.xtplayer.cn/tags/vagrant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher Calico BGP 对接 F5</title>
+    <link href="https://www.xtplayer.cn/f5/f5-calico-bgp-ingress/"/>
+    <id>https://www.xtplayer.cn/f5/f5-calico-bgp-ingress/</id>
+    <published>2020-09-29T04:21:34.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="f5" scheme="https://www.xtplayer.cn/categories/f5/"/>
+    
+    
+    <category term="BGP" scheme="https://www.xtplayer.cn/tags/bgp/"/>
+    
+    <category term="calico" scheme="https://www.xtplayer.cn/tags/calico/"/>
+    
+    <category term="F5" scheme="https://www.xtplayer.cn/tags/f5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Etcd 原理阐释及部署设置的最佳实践</title>
+    <link href="https://www.xtplayer.cn/etcd/etcd-best-practices/"/>
+    <id>https://www.xtplayer.cn/etcd/etcd-best-practices/</id>
+    <published>2020-09-21T11:01:41.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/categories/etcd/"/>
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/tags/etcd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快速使用 Prometheus 监控 Etcd</title>
+    <link href="https://www.xtplayer.cn/etcd/monitor-etcd-quickly-using-prometheus/"/>
+    <id>https://www.xtplayer.cn/etcd/monitor-etcd-quickly-using-prometheus/</id>
+    <published>2020-09-21T10:50:40.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/categories/etcd/"/>
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/tags/etcd/"/>
+    
+    <category term="Prometheus" scheme="https://www.xtplayer.cn/tags/prometheus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher k8s 资源管理</title>
+    <link href="https://www.xtplayer.cn/kubernetes/rancher-k8s-resource-management/"/>
+    <id>https://www.xtplayer.cn/kubernetes/rancher-k8s-resource-management/</id>
+    <published>2020-09-17T05:12:40.000Z</published>
+    <updated>2021-01-30T09:29:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;cgroup-简介&quot;&gt;&lt;a href=&quot;#cgroup-简介&quot; class=&quot;headerlink&quot; title=&quot;cgroup 简介&quot;&gt;&lt;/a&gt;cgroup 简介&lt;/h2&gt;&lt;p&gt;控制群组 (&lt;em&gt;control</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="cgroup" scheme="https://www.xtplayer.cn/tags/cgroup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>K8S 节点不可用时快速迁移 Pods</title>
+    <link href="https://www.xtplayer.cn/kubernetes/fast-migration-pod-when-node-unavailable/"/>
+    <id>https://www.xtplayer.cn/kubernetes/fast-migration-pod-when-node-unavailable/</id>
+    <published>2020-09-16T03:55:03.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+    <category term="TaintBasedEvictions" scheme="https://www.xtplayer.cn/tags/taintbasedevictions/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Longhorn 优雅地恢复运行中的容器应用</title>
+    <link href="https://www.xtplayer.cn/longhorn/longhorn-recovery-app/"/>
+    <id>https://www.xtplayer.cn/longhorn/longhorn-recovery-app/</id>
+    <published>2020-09-15T11:16:22.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Longhorn 是基于 Kubernetes 的轻量级分布式块存储系统，它完全开源，并且已经捐献给</summary>
+        
+      
+    
+    
+    
+    <category term="longhorn" scheme="https://www.xtplayer.cn/categories/longhorn/"/>
+    
+    
+    <category term="longhorn" scheme="https://www.xtplayer.cn/tags/longhorn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>coredns 解析外部域名</title>
+    <link href="https://www.xtplayer.cn/coredns/coredns-host/"/>
+    <id>https://www.xtplayer.cn/coredns/coredns-host/</id>
+    <published>2020-09-15T05:12:27.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="coredns" scheme="https://www.xtplayer.cn/categories/coredns/"/>
+    
+    
+    <category term="coredns" scheme="https://www.xtplayer.cn/tags/coredns/"/>
+    
+    <category term="coredns 最佳实践" scheme="https://www.xtplayer.cn/tags/coredns-%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PLEG is not healthy（二）</title>
+    <link href="https://www.xtplayer.cn/kubernetes/kubelet/pleg-is-not-healthy-2/"/>
+    <id>https://www.xtplayer.cn/kubernetes/kubelet/pleg-is-not-healthy-2/</id>
+    <published>2020-09-15T02:11:53.000Z</published>
+    <updated>2021-09-02T06:32:15.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    <category term="kubelet" scheme="https://www.xtplayer.cn/categories/kubernetes/kubelet/"/>
+    
+    
+    <category term="PLEG" scheme="https://www.xtplayer.cn/tags/pleg/"/>
+    
+    <category term="kubelet" scheme="https://www.xtplayer.cn/tags/kubelet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PLEG is not healthy (一)</title>
+    <link href="https://www.xtplayer.cn/kubernetes/kubelet/pleg-is-not-healthy/"/>
+    <id>https://www.xtplayer.cn/kubernetes/kubelet/pleg-is-not-healthy/</id>
+    <published>2020-09-11T10:12:04.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    <category term="kubelet" scheme="https://www.xtplayer.cn/categories/kubernetes/kubelet/"/>
+    
+    
+    <category term="PLEG" scheme="https://www.xtplayer.cn/tags/pleg/"/>
+    
+    <category term="kubelet" scheme="https://www.xtplayer.cn/tags/kubelet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher2 配置 okta 认证</title>
+    <link href="https://www.xtplayer.cn/rancher/authentication/rancher2-okta-authentication/"/>
+    <id>https://www.xtplayer.cn/rancher/authentication/rancher2-okta-authentication/</id>
+    <published>2020-09-10T13:41:25.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/categories/rancher/authentication/"/>
+    
+    
+    <category term="authentication" scheme="https://www.xtplayer.cn/tags/authentication/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>采用 GitOps 的 11 大原因</title>
+    <link href="https://www.xtplayer.cn/git/top-11-reasons-to-use-gitops/"/>
+    <id>https://www.xtplayer.cn/git/top-11-reasons-to-use-gitops/</id>
+    <published>2020-09-08T10:06:52.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="git" scheme="https://www.xtplayer.cn/categories/git/"/>
+    
+    
+    <category term="GitOps" scheme="https://www.xtplayer.cn/tags/gitops/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Could not generate persistent MAC address </title>
+    <link href="https://www.xtplayer.cn/linux/network/could-not-generate-persistent-mac-address/"/>
+    <id>https://www.xtplayer.cn/linux/network/could-not-generate-persistent-mac-address/</id>
+    <published>2020-09-05T09:55:47.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    <category term="network" scheme="https://www.xtplayer.cn/categories/linux/network/"/>
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>etcd 配置优化</title>
+    <link href="https://www.xtplayer.cn/etcd/etcd-optimize/"/>
+    <id>https://www.xtplayer.cn/etcd/etcd-optimize/</id>
+    <published>2020-09-04T07:21:45.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/categories/etcd/"/>
+    
+    
+    <category term="etcd" scheme="https://www.xtplayer.cn/tags/etcd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mds、mds_stores、mdworker 占用大量 cpu 和内存</title>
+    <link href="https://www.xtplayer.cn/macos/mds-stores-use-high-cpu/"/>
+    <id>https://www.xtplayer.cn/macos/mds-stores-use-high-cpu/</id>
+    <published>2020-09-01T15:00:54.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;问题背景&quot;&gt;&lt;a href=&quot;#问题背景&quot; class=&quot;headerlink&quot; title=&quot;问题背景&quot;&gt;&lt;/a&gt;问题背景&lt;/h2&gt;&lt;p&gt;有时候忽然发现风扇转到特别厉害，打开的应用程序并不多。打开活动监视器，可以看到</summary>
+        
+      
+    
+    
+    
+    <category term="macos" scheme="https://www.xtplayer.cn/categories/macos/"/>
+    
+    
+    <category term="macos" scheme="https://www.xtplayer.cn/tags/macos/"/>
+    
+    <category term="mds_stores" scheme="https://www.xtplayer.cn/tags/mds-stores/"/>
+    
+    <category term="mdworker" scheme="https://www.xtplayer.cn/tags/mdworker/"/>
+    
+    <category term="mds" scheme="https://www.xtplayer.cn/tags/mds/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>project.management.cattle.io not found</title>
+    <link href="https://www.xtplayer.cn/rancher/project-management-cattle-io-not-found/"/>
+    <id>https://www.xtplayer.cn/rancher/project-management-cattle-io-not-found/</id>
+    <published>2020-09-01T04:13:27.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="project" scheme="https://www.xtplayer.cn/tags/project/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自签名 SSL 证书</title>
+    <link href="https://www.xtplayer.cn/ssl/self-signed-ssl/"/>
+    <id>https://www.xtplayer.cn/ssl/self-signed-ssl/</id>
+    <published>2020-08-28T15:29:11.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;HTTP-over-SSL&quot;&gt;&lt;a href=&quot;#HTTP-over-SSL&quot; class=&quot;headerlink&quot; title=&quot;HTTP over SSL&quot;&gt;&lt;/a&gt;HTTP over SSL&lt;/h2&gt;&lt;p&gt;要保证 Web</summary>
+        
+      
+    
+    
+    
+    <category term="ssl" scheme="https://www.xtplayer.cn/categories/ssl/"/>
+    
+    
+    <category term="ssl" scheme="https://www.xtplayer.cn/tags/ssl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher v2.4.10 发布</title>
+    <link href="https://www.xtplayer.cn/rancher/release/2410/"/>
+    <id>https://www.xtplayer.cn/rancher/release/2410/</id>
+    <published>2020-08-28T01:52:58.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="release" scheme="https://www.xtplayer.cn/categories/rancher/release/"/>
+    
+    
+    <category term="release" scheme="https://www.xtplayer.cn/tags/release/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher v2.4.6 发布</title>
+    <link href="https://www.xtplayer.cn/rancher/release/246/"/>
+    <id>https://www.xtplayer.cn/rancher/release/246/</id>
+    <published>2020-08-28T01:52:58.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="release" scheme="https://www.xtplayer.cn/categories/rancher/release/"/>
+    
+    
+    <category term="release" scheme="https://www.xtplayer.cn/tags/release/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher v2.4.8 发布</title>
+    <link href="https://www.xtplayer.cn/rancher/release/248/"/>
+    <id>https://www.xtplayer.cn/rancher/release/248/</id>
+    <published>2020-08-28T01:52:58.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="release" scheme="https://www.xtplayer.cn/categories/rancher/release/"/>
+    
+    
+    <category term="release" scheme="https://www.xtplayer.cn/tags/release/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+权威证书+四层负载均衡安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-authority-ssl-l4/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-authority-ssl-l4/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+权威证书+七层负载均衡安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-authority-ssl-l7/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-authority-ssl-l7/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+权威证书安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-authority-ssl/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-authority-ssl/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+自定义自签证书+四层负载均衡安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-custom-ssl-l4/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-custom-ssl-l4/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+自定义自签证书+七层负载均衡安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-custom-ssl-l7/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-custom-ssl-l7/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+自定义自签证书安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-custom-ssl/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-custom-ssl/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+默认自签证书+四层负载均衡安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-default-ssl-l4/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-default-ssl-l4/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;默认情况下，Rancher 会自动生成一个用于加密的自签名证书。可以直接通过运行 Docker 命令来安装 Rancher，而不需要任何其他参数。&lt;/p&gt;
+&lt;h2 id=&quot;在线安装&quot;&gt;&lt;a href=&quot;#在线安装&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单节点+默认自签证书安装 Rancher</title>
+    <link href="https://www.xtplayer.cn/rancher/install/single-node-install-default-ssl/"/>
+    <id>https://www.xtplayer.cn/rancher/install/single-node-install-default-ssl/</id>
+    <published>2020-08-27T15:51:59.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/categories/rancher/install/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="install" scheme="https://www.xtplayer.cn/tags/install/"/>
+    
+    <category term="单节点安装" scheme="https://www.xtplayer.cn/tags/%E5%8D%95%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图形化的方式了解 Kubernetes</title>
+    <link href="https://www.xtplayer.cn/kubernetes/learn-about-kubernetes-graphically/"/>
+    <id>https://www.xtplayer.cn/kubernetes/learn-about-kubernetes-graphically/</id>
+    <published>2020-08-25T12:48:24.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用 kind 快速创建本地集群</title>
+    <link href="https://www.xtplayer.cn/kubernetes/use-kind/"/>
+    <id>https://www.xtplayer.cn/kubernetes/use-kind/</id>
+    <published>2020-08-25T12:24:55.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ipv6/conf/eth0/accept_dad: no such file or directory</title>
+    <link href="https://www.xtplayer.cn/kubernetes/pod-not-run/"/>
+    <id>https://www.xtplayer.cn/kubernetes/pod-not-run/</id>
+    <published>2020-08-25T03:26:28.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="pod" scheme="https://www.xtplayer.cn/tags/pod/"/>
+    
+    <category term="flannel" scheme="https://www.xtplayer.cn/tags/flannel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker Cgroup 版本对应</title>
+    <link href="https://www.xtplayer.cn/docker/docker-cgroup/"/>
+    <id>https://www.xtplayer.cn/docker/docker-cgroup/</id>
+    <published>2020-08-12T02:51:07.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;centos8&amp;#x2F;redhat8、Fedora 31 或者 Linux 内核 4.5 以上，cgroup 默认为 v2 版本，而当前 docker 只支持 以上，cgroup v1。&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="docker" scheme="https://www.xtplayer.cn/categories/docker/"/>
+    
+    
+    <category term="docker" scheme="https://www.xtplayer.cn/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux authentication token manipulation 错误</title>
+    <link href="https://www.xtplayer.cn/linux/authentication-token-manipulation/"/>
+    <id>https://www.xtplayer.cn/linux/authentication-token-manipulation/</id>
+    <published>2020-08-11T15:30:13.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ingress 常用配置（持续更新）</title>
+    <link href="https://www.xtplayer.cn/kubernetes/ingress-configuration-demo/"/>
+    <id>https://www.xtplayer.cn/kubernetes/ingress-configuration-demo/</id>
+    <published>2020-08-11T13:03:08.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+    <category term="ingress" scheme="https://www.xtplayer.cn/tags/ingress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自定义服务账户（Service Account）</title>
+    <link href="https://www.xtplayer.cn/kubernetes/custom-serviceaccount/"/>
+    <id>https://www.xtplayer.cn/kubernetes/custom-serviceaccount/</id>
+    <published>2020-08-09T13:30:28.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/categories/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://www.xtplayer.cn/tags/kubernetes/"/>
+    
+    <category term="serviceaccount" scheme="https://www.xtplayer.cn/tags/serviceaccount/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过 webhooks 自动更新应用</title>
+    <link href="https://www.xtplayer.cn/rancher/webhooks/"/>
+    <id>https://www.xtplayer.cn/rancher/webhooks/</id>
+    <published>2020-08-09T02:01:43.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+    <summary type="html">webhooks</summary>
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="webhooks" scheme="https://www.xtplayer.cn/tags/webhooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher server 管理员密码重置</title>
+    <link href="https://www.xtplayer.cn/rancher/password-reset/"/>
+    <id>https://www.xtplayer.cn/rancher/password-reset/</id>
+    <published>2020-08-07T15:30:36.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="重置密码" scheme="https://www.xtplayer.cn/tags/%E9%87%8D%E7%BD%AE%E5%AF%86%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher 单节点安装迁移 HA 安装</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/single-to-ha/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/single-to-ha/</id>
+    <published>2020-08-06T17:16:15.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="迁移" scheme="https://www.xtplayer.cn/tags/%E8%BF%81%E7%A7%BB/"/>
+    
+    <category term="HA" scheme="https://www.xtplayer.cn/tags/ha/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher-K8S 轮换证书</title>
+    <link href="https://www.xtplayer.cn/rancher/rotate-cert/"/>
+    <id>https://www.xtplayer.cn/rancher/rotate-cert/</id>
+    <published>2020-08-06T17:03:21.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="轮换证书" scheme="https://www.xtplayer.cn/tags/%E8%BD%AE%E6%8D%A2%E8%AF%81%E4%B9%A6/"/>
+    
+    <category term="k8s" scheme="https://www.xtplayer.cn/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>保存所有集群的 kubeconfig 配置文件</title>
+    <link href="https://www.xtplayer.cn/rancher/save-all-kubecfg/"/>
+    <id>https://www.xtplayer.cn/rancher/save-all-kubecfg/</id>
+    <published>2020-08-05T14:29:49.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="kubeconfig" scheme="https://www.xtplayer.cn/tags/kubeconfig/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用 BLKTRACE 和 BTT 分析磁盘 IO 性能</title>
+    <link href="https://www.xtplayer.cn/linux/disk/blktrace-btt-test-io/"/>
+    <id>https://www.xtplayer.cn/linux/disk/blktrace-btt-test-io/</id>
+    <published>2020-08-05T02:43:26.000Z</published>
+    <updated>2021-02-04T17:36:11.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    <category term="disk" scheme="https://www.xtplayer.cn/categories/linux/disk/"/>
+    
+    
+    <category term="BLKTRACE" scheme="https://www.xtplayer.cn/tags/blktrace/"/>
+    
+    <category term="BTT" scheme="https://www.xtplayer.cn/tags/btt/"/>
+    
+    <category term="I/O" scheme="https://www.xtplayer.cn/tags/i-o/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>恢复 rkestate 状态文件</title>
+    <link href="https://www.xtplayer.cn/rancher/backup-restore/restore-rkestate/"/>
+    <id>https://www.xtplayer.cn/rancher/backup-restore/restore-rkestate/</id>
+    <published>2020-08-04T15:14:42.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/categories/rancher/backup-restore/"/>
+    
+    
+    <category term="rke" scheme="https://www.xtplayer.cn/tags/rke/"/>
+    
+    <category term="backup-restore" scheme="https://www.xtplayer.cn/tags/backup-restore/"/>
+    
+    <category term="rkestate" scheme="https://www.xtplayer.cn/tags/rkestate/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rancher K8S 集群恢复丢失的 kubeconfig 配置文件</title>
+    <link href="https://www.xtplayer.cn/rancher/restore-kubecfg/"/>
+    <id>https://www.xtplayer.cn/rancher/restore-kubecfg/</id>
+    <published>2020-08-03T08:48:02.000Z</published>
+    <updated>2021-03-23T14:58:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/categories/rancher/"/>
+    
+    
+    <category term="rancher" scheme="https://www.xtplayer.cn/tags/rancher/"/>
+    
+    <category term="恢复 kubecfg" scheme="https://www.xtplayer.cn/tags/%E6%81%A2%E5%A4%8D-kubecfg/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sysstat 记录主机资源历史使用</title>
+    <link href="https://www.xtplayer.cn/linux/sysstat/"/>
+    <id>https://www.xtplayer.cn/linux/sysstat/</id>
+    <published>2020-08-03T03:04:18.000Z</published>
+    <updated>2021-02-04T17:33:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span&gt;本文永久链接: &lt;/span&gt;&lt;i class=&quot;fa fa-creative-commons&quot;&gt;&lt;/i&gt;&lt;a rel=&quot;noopener external nofollow noreferrer&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.xtplayer.cn/categories/linux/"/>
+    
+    
+    <category term="sysstat" scheme="https://www.xtplayer.cn/tags/sysstat/"/>
+    
+  </entry>
+  
+</feed>
